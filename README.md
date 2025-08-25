@@ -1,17 +1,10 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there, I'm <span style="color:#22c55e;">Anubhav Chaudhary</span> 👋</h1>
 <p align="center">
-  <em align="center">MCA Student | IoT & Embedded Systems Enthusiast | AI & Cloud Developer
-
-IoT Developer | AI Researcher | Building Smart, Connected Solutions
-
-Software & Embedded Systems | IoT Projects | AI-Powered Applications
-
-IoT | AI | Mobile & Web Development
-
-Hands-on with Arduino, Embedded Systems, and AI Solutions.</em>
+  <em>MCA Student | IoT & Embedded Systems | AI & Cloud Developer</em>
 </p>
 
+<!-- Social Links -->
 <p align="center">
   <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-hello@me-1f2937?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/yourhandle"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -21,90 +14,113 @@ Hands-on with Arduino, Embedded Systems, and AI Solutions.</em>
 
 <!-- Spotlight -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20ML%20%7C%20UX-14b8a6?style=flat-square">
+  <img src="https://img.shields.io/badge/Focus-IoT%20%7C%20AI%20%7C%20Embedded%20Systems-14b8a6?style=flat-square">
   <img src="https://img.shields.io/badge/Motto-Build%20with%20Empathy-ef4444?style=flat-square">
 </p>
 
 ---
 
-## About
-- Engineer with a problem-solving mindset, shipping robust backends, performant frontends, and human-centered interfaces.  
-- Passionate, empathetic, responsible, industrious; adaptable collaborator and active listener.  
-- Currently exploring typed frontends, scalable APIs, and model-in-the-loop product UX.  
+## About Me
+- MCA Student with strong foundation in **IoT, Embedded Systems, AI, and Cloud Development**.  
+- Experienced in **Arduino-based prototyping, mobile & web app development**, and AI projects.  
+- Passionate about building **smart, connected solutions** that solve real-world problems.  
+- Collaborator and lifelong learner, adaptable to **cross-functional teams**.
 
 ---
 
 ## Tech Stack
 
 ### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge">
+<p float="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&style=for-the-badge">
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&style=for-the-badge">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&style=for-the-badge">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge">
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&style=for-the-badge">
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&style=for-the-badge">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge">
 </p>
 
-### Frameworks & Packages
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge">
+### Frameworks & Libraries
+<p float="left">
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge">
 </p>
 
 ### Tools & IDE
-<p>
-  <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?logo=arduino&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/MS%20Office-D83B01?logo=microsoftoffice&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white&style=for-the-badge">
+<p float="left">
+  <img src="https://img.shields.io/badge/ArduinoIDE-00979D?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge">
 </p>
 
 ### Soft Skills
-- UI/UX Design • Passionate • Empathetic • Responsible  
-- Industrious • Problem-solving • Adaptable • Active Listener • Collaborative  
+<p float="left">
+  <img src="https://img.shields.io/badge/Problem-solving-FF6347?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Collaboration-1E90FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Empathy-14B8A6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Adaptability-FF7F50?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Lifelong%20Learner-FFD700?style=for-the-badge">
+</p>
 
 ---
 
 ## Featured Projects
-- Smart IoT Monitor — Arduino + Python pipeline with real-time dashboards and alerts.  
-- Full-stack Notes App — Next.js + Express + MongoDB with JWT auth and CI linting.  
-- Vision Classifier — PyTorch training loop, augmentations, and Grad-CAM explainability.  
 
-Tip: Pin your top repositories so they appear here on the profile.  
+### 🏷️ Smart IoT Monitor
+- **Tech:** Arduino, Python, MQTT  
+- Real-time dashboards, sensor monitoring, and alert system for IoT devices.
+
+### 🏷️ Hand Gesture Air Mouse
+- **Tech:** Arduino Uno, Motion Sensors  
+- Controlled mouse cursor via hand gestures; explored embedded systems & human-computer interaction.
+
+### 🏷️ Laundry Service App
+- **Tech:** Kotlin (Android), Firebase  
+- Developed a mobile app with digital wallet, real-time order tracking, and smooth UI/UX.
+
+### 🏷️ Emotion Detection System
+- **Tech:** Python, OpenCV, AI chatbot  
+- Live emotion recognition with dynamic AI chatbot responses; integrated real-world AI concepts.
+
+### 🏷️ Full-Stack Notes App
+- **Tech:** Next.js, Express, MongoDB  
+- JWT authentication, responsive UI, and CI linting for clean code deployment.
 
 ---
 
-## Activity & Stats
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
+## GitHub Stats & Activity
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## Let’s Build
-Open to collaborating on impactful products—clean APIs, resilient systems, and usable interfaces.  
-Reach out for pair-building, design sprints, or ML-infused features.  
+Open to collaborating on **IoT, AI, and full-stack projects**.  
+Reach out for **pair-building, design sprints, or innovative product development**.
+
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Me-1f2937?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin"></a>
+</p>
