@@ -1,7 +1,15 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm <span style="color:#22c55e;">Your Name</span> 👋</h1>
+<h1 align="center">Hi there, I'm <span style="color:#22c55e;">Anubhav Chaudhary</span> 👋</h1>
 <p align="center">
-  <em>UI/UX-minded engineer crafting reliable systems and delightful experiences.</em>
+  <em>MCA Student | IoT & Embedded Systems Enthusiast | AI & Cloud Developer
+
+IoT Developer | AI Researcher | Building Smart, Connected Solutions
+
+Software & Embedded Systems | IoT Projects | AI-Powered Applications
+
+IoT | AI | Mobile & Web Development
+
+Hands-on with Arduino, Embedded Systems, and AI Solutions.</em>
 </p>
 
 <p align="center">
