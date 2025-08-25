@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there, I'm <span style="color:#22c55e;">Anubhav Chaudhary</span> 👋</h1>
 <p align="center">
-  <em>MCA Student | IoT & Embedded Systems Enthusiast | AI & Cloud Developer
+  <em align="center">MCA Student | IoT & Embedded Systems Enthusiast | AI & Cloud Developer
 
 IoT Developer | AI Researcher | Building Smart, Connected Solutions
 
